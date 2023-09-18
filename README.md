@@ -35,9 +35,9 @@ Now we are developing our website to give recognition to our company and project
 
 ## How to Contribute
 
-As I mentioned that website is not ready so anyone who want to contribute can contact me on linkedin or gmail.
+As I mentioned that website is not ready so anyone who want to contribute can contact me on [linkedin](https://www.linkedin.com/in/--saif/) or [gmail](mailto:syedsaifali214@gmail.com).
 
 
 ## Contact
 
-If you have any questions or need further information, feel free to reach out to me, [Your Name](mailto:syedsaifali214@email.com).
+If you have any questions or need further information, feel free to reach out to me, [Syed Saif Ali](mailto:syedsaifali214@email.com).
