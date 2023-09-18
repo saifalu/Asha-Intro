@@ -6,14 +6,13 @@
 - [Problem Statement](#problem-statement)
 - [Solution](#solution)
 - [Project Vision](#project-vision)
-- [Getting Started](#getting-started)
+- [Current Status](#current-status)
 - [How to Contribute](#how-to-contribute)
-- [License](#license)
 - [Contact](#contact)
 
 ## About
 
-I, a 6th-semester computer science student hailing from a Tier 3 city in India, embarked on a startup journey fueled by a passion for solving a pressing issue in our country's agriculture sector. The problem I observed was the extreme volatility in vegetable prices due to the disorganized nature of farming practices.
+Asha is a mobile app designed to address a pressing issue in India's agriculture sector: extreme volatility in vegetable prices due to disorganized farming practices.
 
 ## Problem Statement
 
@@ -29,28 +28,16 @@ Inspired by this glaring issue, I conceived the idea of "Asha" – a mobile app 
 
 Our primary goal is not profit-driven; it's about uplifting our country's farmers and ensuring that nutritious produce is accessible to all. We envision a future where Asha plays a pivotal role in achieving stability and prosperity in the agricultural community, ultimately contributing to food security.
 
-## Getting Started
+## Current Status
+Now we are developing our website to give recognition to our company and project. when the development of website will be finished, development of application will be started.
 
-To get started with Asha, you can follow these steps:
 
-1. Clone this repository to your local machine.
-2. Install any necessary dependencies specified in the project.
-3. Explore the codebase to understand the app's functionality.
-4. Join our community on [GitHub Discussions](link) for questions and discussions.
 
 ## How to Contribute
 
-We welcome contributions from individuals who share our mission. To contribute to Asha:
+As I mentioned that website is not ready so anyone who want to contribute can contact me on linkedin or gmail.
 
-1. Fork the project to your GitHub account.
-2. Create a new branch for your contribution.
-3. Make your changes and improvements.
-4. Submit a pull request with a detailed description of your contribution.
-
-## License
-
-This project is licensed under the [License Name](LICENSE.md). Please refer to the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 
-If you have any questions or need further information, feel free to reach out to me, [Your Name](mailto:your@email.com).
+If you have any questions or need further information, feel free to reach out to me, [Your Name](mailto:syedsaifali214@email.com).
